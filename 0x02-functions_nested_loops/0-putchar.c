@@ -1,7 +1,7 @@
 #include<stdio.h>
-/** 
- * main - A program that prints putchar followed by a new line 
- * return: 0 
+/**
+ * main - The main program prints _putchar
+ * Return: 0
  */
 int main(void)
 {
